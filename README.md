@@ -1,7 +1,7 @@
 Bueno-social-links-fix
 ======================
 
-Minor bug fix for version Bueno v.1.0.1
+Minor bug fix for Bueno v.1.0.1
 
 Fixed from version 1.0.2.
 
